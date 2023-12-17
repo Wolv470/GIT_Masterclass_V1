@@ -1,1 +1,2 @@
 This is SAmple File 2
+GIT revers commit 1
